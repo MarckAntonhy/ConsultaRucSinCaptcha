@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="da522f2c-e0fd-4f5d-a915-c7cdad93644f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:52612/WSConsultaRuc.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WSConsultaRuc.xsd" MetadataType="Schema" ID="f6bd5dd7-ca91-4391-8d05-943a508b6a82" SourceId="1" SourceUrl="http://localhost:52612/WSConsultaRuc.svc?xsd=xsd1" />
+    <MetadataFile FileName="WSConsultaRuc1.xsd" MetadataType="Schema" ID="2aa505d7-266d-4f0b-a2d6-11d40a33a8b2" SourceId="1" SourceUrl="http://localhost:52612/WSConsultaRuc.svc?xsd=xsd2" />
+    <MetadataFile FileName="WsConsulta.wsdl" MetadataType="Wsdl" ID="700fc217-dac6-4a88-8deb-60dc2dc267d3" SourceId="1" SourceUrl="http://localhost:52612/WSConsultaRuc.svc?wsdl" />
+    <MetadataFile FileName="WSConsultaRuc.disco" MetadataType="Disco" ID="1aa5312b-fd63-46ee-9e1b-ad0720e8d5fb" SourceId="1" SourceUrl="http://localhost:52612/WSConsultaRuc.svc?disco" />
+    <MetadataFile FileName="WSConsultaRuc2.xsd" MetadataType="Schema" ID="8b3b4514-1bdc-4581-8d22-70a54385b7f8" SourceId="1" SourceUrl="http://localhost:52612/WSConsultaRuc.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

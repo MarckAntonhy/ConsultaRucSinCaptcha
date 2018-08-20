@@ -1,0 +1,14 @@
+E:\VEGA\Mis Proyectos\WSConsultaRUC\WSConsultaRuc\WSConsultaRuc\bin\x64\liblept172.dll
+E:\VEGA\Mis Proyectos\WSConsultaRUC\WSConsultaRuc\WSConsultaRuc\bin\x64\libtesseract304.dll
+E:\VEGA\Mis Proyectos\WSConsultaRUC\WSConsultaRuc\WSConsultaRuc\bin\x86\liblept172.dll
+E:\VEGA\Mis Proyectos\WSConsultaRUC\WSConsultaRuc\WSConsultaRuc\bin\x86\libtesseract304.dll
+E:\VEGA\Mis Proyectos\WSConsultaRUC\WSConsultaRuc\WSConsultaRuc\bin\WSConsultaRuc.dll.config
+E:\VEGA\Mis Proyectos\WSConsultaRUC\WSConsultaRuc\WSConsultaRuc\bin\WSConsultaRuc.dll
+E:\VEGA\Mis Proyectos\WSConsultaRUC\WSConsultaRuc\WSConsultaRuc\bin\WSConsultaRuc.pdb
+E:\VEGA\Mis Proyectos\WSConsultaRUC\WSConsultaRuc\WSConsultaRuc\bin\Tesseract.dll
+E:\VEGA\Mis Proyectos\WSConsultaRUC\WSConsultaRuc\WSConsultaRuc\bin\Tesseract.xml
+E:\VEGA\Mis Proyectos\WSConsultaRUC\WSConsultaRuc\WSConsultaRuc\obj\Release\WSConsultaRuc.csprojAssemblyReference.cache
+E:\VEGA\Mis Proyectos\WSConsultaRUC\WSConsultaRuc\WSConsultaRuc\obj\Release\WSConsultaRuc.csproj.CoreCompileInputs.cache
+E:\VEGA\Mis Proyectos\WSConsultaRUC\WSConsultaRuc\WSConsultaRuc\obj\Release\WSConsultaRuc.csproj.CopyComplete
+E:\VEGA\Mis Proyectos\WSConsultaRUC\WSConsultaRuc\WSConsultaRuc\obj\Release\WSConsultaRuc.dll
+E:\VEGA\Mis Proyectos\WSConsultaRUC\WSConsultaRuc\WSConsultaRuc\obj\Release\WSConsultaRuc.pdb
